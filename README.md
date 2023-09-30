@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Wayne-Mbiza
+- 👀 I’m interested in data analyis and software engineering 
+- 🌱 I’m currently learning data analytics and software engineering vasics with Cisco learning academy
+- 💞️ I’m looking to collaborate on ...
+- 📫 you can reach me via email @waynembiza51@gmail.com
